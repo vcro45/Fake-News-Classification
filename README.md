@@ -159,7 +159,15 @@ Endpoints:
 - `GET /health` - Health check
 
 ## Team Members
-- [Add team member names]
+- Varun Choudhary
+- Tanay Agrawal
+- Aaditya Grover
+- Anant Katiyar
+- Arnav Sharma
+- Rakel Munshi
+- David Shahagun
+- Janson Duong
+- Xavier Gonzalez
 
 ## Dataset Source
 - Kaggle: [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
