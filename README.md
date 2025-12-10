@@ -55,7 +55,7 @@ pip install fastapi uvicorn
 
 ### 4. Data Setup
 Download the Kaggle Fake News dataset:
-- [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+- [Fake and Real News Dataset]([https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset))
 - Place `Fake.csv` and `True.csv` in the `data/` folder
 
 ### 5. Prepare Dataset
