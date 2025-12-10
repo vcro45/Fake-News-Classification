@@ -1,0 +1,38 @@
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Large data files (team members should download separately)
+data/*.csv
+
+# Model files (large, team can retrain or download separately)
+model/*.pkl
+src/model/*.pkl
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+server.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results (generated outputs)
+results/explanations/*.html
